@@ -1,0 +1,5 @@
+نام پروژه: EghbalianDigitalLibrary
+Package: com.eghbalian.library
+Min SDK: 23
+Target SDK: 35
+Version: 1.0.0
